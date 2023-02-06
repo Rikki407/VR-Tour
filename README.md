@@ -1,2 +1,2 @@
 # VR-Tour
-<img alt="GIF" src="https://i.giphy.com/media/JVdGUPV6oxxMpH2M9S/giphy.gif" width="100%"/>
+<img alt="GIF" src="https://github.com/Rikki407/gifs/blob/main/VRtour.gif?raw=true" width="100%"/>
